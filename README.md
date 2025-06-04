@@ -6,7 +6,7 @@ I'm a PHP Developer and tech enthusiast who enjoys solving real-world problems w
 
 ## 🛠️ Tech Stack
 
-- **Languages**: PHP, C++, C#, JavaScript, TypeScript, HTML/CSS, Bash ect..
+- **Languages**: PHP, C++, C#, JavaScript, TypeScript, HTML/CSS, Bash, and soon Rust ect..
 - **Frameworks/Libraries**: Symfony, Laravel
 - **Tools & Platforms**: Git, Docker, GitHub Actions, VS Code, Linux
 - **Databases**: MySQL, MSSQL, PostgreSQL, SQLite
