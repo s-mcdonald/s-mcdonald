@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I'm Sam McDonald
 
-<!--
-**s-mcdonald/s-mcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a PHP Developer and tech enthusiast who enjoys solving real-world problems with code. This space is where I build, learn, and share open-source projects—ranging from quick experiments to long-term tools I use daily.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages**: PHP, C++, C#, JavaScript, TypeScript, HTML/CSS, Bash ect..
+- **Frameworks/Libraries**: Symfony, Laravel
+- **Tools & Platforms**: Git, Docker, GitHub Actions, VS Code, Linux
+- **Databases**: MySQL, MSSQL, PostgreSQL, SQLite
+
+## 🔭 Current Projects
+
+- 🚧 **[NeonVoid]** – A Game Engene from the ground up using OpenGL and c++.
+
+##  Other Interests
+
+-  Learning C# Microservices, Rust and Angualar
+-  Finance/Investing
+-  Camping, fishing, cars 
+
